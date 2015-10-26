@@ -1,0 +1,14 @@
+{
+  "name": "hob-co-best-chat",
+  "version": "0.0.01",
+  "description": "my first socket.io app",
+  "licence": "i can do what ever i want - ron swanson",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hobnob11/Node.js.git"
+  },
+  "dependencies": {
+    "express": "^4.10.2",
+    "socket.io": "^1.3.7"
+  }
+}
